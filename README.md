@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Augusto Gandra de Andrade
+Matricula: 893088
 
 ## Tela de inspeção com navegador
 
+![print 1](image.png)
 
 ## Tela de projeto no Replit
 
+![print2](image-2.png)
